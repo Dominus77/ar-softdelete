@@ -12,7 +12,6 @@ For license information check the [LICENSE](LICENSE.md)-file.
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/dominus77/ar-softdelete.svg)](https://packagist.org/packages/dominus77/ar-softdelete)
 [![Total Downloads](https://img.shields.io/packagist/dt/dominus77/ar-softdelete.svg)](https://packagist.org/packages/dominus77/ar-softdelete)
-[![Build Status](https://travis-ci.org/dominus77/ar-softdelete.svg?branch=master)](https://travis-ci.org/dominus77/ar-softdelete)
 
 
 Installation
