@@ -23,13 +23,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist yii2tech/ar-softdelete
+php composer.phar require dominus77/ar-softdelete
 ```
 
 or add
 
 ```json
-"yii2tech/ar-softdelete": "*"
+"dominus77/ar-softdelete": "dev-master"
 ```
 
 to the require section of your composer.json.
